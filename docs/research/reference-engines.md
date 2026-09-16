@@ -210,7 +210,7 @@ Weiss deserves one note on its 3264. That figure is Weiss 2.0, released 2021-08-
 
 ## Build and liveness check
 
-Verified locally on the M4 Max (arm64, Apple clang 21.0.0) on 2026-09-16.
+Verified locally on an Apple M1 Pro (arm64, Apple clang 21.0.0) on 2026-09-16. The Mac Studio had not arrived; this is a compile-and-respond-to-`uci` check, not a performance measurement, so the machine does not affect the result.
 
 | Project | Default branch last commit | Last release | Builds here? |
 |---|---|---|---|
